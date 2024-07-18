@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "google-apis-analyticsreporting_v4"
+gem "google-apis-analyticsreporting_v4", ">= 0.6.0"
